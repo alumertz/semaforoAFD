@@ -1,5 +1,5 @@
 SemaforoAFD
-S: q0,q1,q2,q3,q4,q5
+S: q0,q1,q2,q3,q4,q5,q6,q7
 A: D,P,R,G,Y
 i: q0
 F: q1
@@ -16,4 +16,4 @@ F: q1
 (q4,P,q5)
 (q4,D,q1)
 (q5,D,q1)
-
+(q6,D,q7)
